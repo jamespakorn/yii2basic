@@ -10,6 +10,7 @@ class User extends \yii\base\Object implements \yii\web\IdentityInterface
     public $authKey;
     public $accessToken;
     public $test;
+    public $test2;
 
     private static $users = [
         '100' => [
