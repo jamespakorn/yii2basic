@@ -60,10 +60,10 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-    	echo 'test';
-        echo '5555ffff';
-        echo 'test vscode';
-        echo 'test 2 file';
+    	echo 'test 1';
+        echo 'test 2';
+        echo 'test 3 vscode';
+        echo 'test 4 file';
         return $this->render('index');
     }
 
