@@ -61,7 +61,7 @@ class SiteController extends Controller
     public function actionIndex()
     {
     	echo 'test';
-        echo '5555';
+        echo '5555ffff';
         return $this->render('index');
     }
 
