@@ -63,6 +63,7 @@ class SiteController extends Controller
     	echo 'test';
         echo '5555ffff';
         echo 'test vscode';
+        echo 'test 2 file';
         return $this->render('index');
     }
 
